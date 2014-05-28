@@ -1,5 +1,5 @@
-A Thrift Shop Proposal
-======================
+An Atheist Thrift Shop Proposal
+=========================
 
 * This thrift shop is Atheist, so it is not affiliated to any religious organisation or religion in any way. 
 
@@ -8,7 +8,6 @@ What's it called
 * Opporunity Shop
 * The Internatioanl Thrift Store (TITS)
 * The Atheist Opporunity Shopping Network
-* ???
 
 Aim
 ---

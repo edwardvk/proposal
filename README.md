@@ -2,6 +2,7 @@ An Atheist Thrift Shop Proposal
 =========================
 
 * This thrift shop is Atheist, so it is not affiliated to any religious organisation or religion in any way. 
+* Aim of this document is to define exactly what we're planning to achieve. We hope this might make it suitable for crowd funding.
 
 What's it called
 ----------------

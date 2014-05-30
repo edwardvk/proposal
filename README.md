@@ -7,11 +7,12 @@ An Atheist Thrift Shop Proposal
 What's it called
 ----------------
 * Opporunity Shop
-* The Internatioanl Thrift Store (TITS)
+* The International Thrift Store (TITS)
 * The Atheist Opporunity Shopping Network
 
 Aim
 ---
+
 * To create jobs
 * To recycle goods
 
@@ -30,7 +31,6 @@ How it works
 * The shop will be registed as a normal company, not a section 21. The additional onerous nature of section 21 company incurs additional costs to the company. Additionally we don't feel that section 21 companies actually make it more trustworthy. Instead, we will pledge to aim for zero profit and achieve trust by making all out financial information open to the public via the online website. 
 * We will try use vacant and unused retail space. Owners might be willing to let us the premises at zero or very low cost if we agree to vacant the premises at a moments notice. 
 * The shop is not run by volunteers, it is staffed. And staff members are paid. 
-* 
 
 Jobs
 ----

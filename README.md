@@ -26,6 +26,7 @@ How it works
 * Items then go for cleaning. The cleaning department will wash the cloths, or clean the items reasonably.
 * Items then go for mending, if necessary. Usually clothing that is donated has some sort of defect. 
 * Items then go for price assessment. 
+* Items are catalogued (photographed, described) for online search/sale
 * Price reassessment. If an item is not being sold. The price must be reduced. 
 * All items (including previously items) can be searched online. This helps with future price assessment. 
 * The shop will be registed as a normal company, not a section 21. The additional onerous nature of section 21 company incurs additional costs to the company. Additionally we don't feel that section 21 companies actually make it more trustworthy. Instead, we will pledge to aim for zero profit and achieve trust by making all out financial information open to the public via the online website. 
